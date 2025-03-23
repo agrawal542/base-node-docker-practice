@@ -1,1 +1,3 @@
 DockerFile
+.env
+node_modules
